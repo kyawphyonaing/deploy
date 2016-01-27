@@ -6,3 +6,4 @@ echo "third";
 echo "fouth";
 echo "fifth";
 echo "sixth";
+echo "seven";
